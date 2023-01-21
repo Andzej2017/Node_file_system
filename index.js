@@ -1,1 +1,1 @@
-console.log("running");
+import { file } from "./file.js";
